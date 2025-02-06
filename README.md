@@ -1,2 +1,2 @@
 # KLQD Dataset 
-The KLQD Dataset is a dataset of korean legal question-answering. 
+KLQD(Korean Legal Question-Answering Dataset) is a dataset constructed by collecting and processing data from legal web platforms in South Korea.
