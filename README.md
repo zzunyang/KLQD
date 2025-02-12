@@ -22,7 +22,7 @@ KLQD and the seven fine-tuned models are released under an **open license**, mak
 - [zzunyang/KLQD_llama3.2](https://huggingface.co/zzunyang/KLQD_llama3.2)
 - [zzunyang/KLQD_ko_gemma2](https://huggingface.co/zzunyang/KLQD_ko_gemma2)
 - [zzunyang/KLQD_ko_llama3.1](https://huggingface.co/zzunyang/KLQD_ko_llama3.1)
-- [zzunyang/KLQD_ko_sft](#) *(Add link here)*
+- [zzunyang/KLQD_ko_sft](https://huggingface.co/zzunyang/KLQD_ko_sft)
 - [zzunyang/KLQD_law_gemma](https://huggingface.co/zzunyang/KLQD_law_gemma)
 - [zzunyang/KLQD_law_llama3](https://huggingface.co/zzunyang/KLQD_law_llama3)
 
@@ -73,8 +73,6 @@ If you'd like to contribute, please submit an issue or a pull request on GitHub!
 
 ## Contact
 
-For questions or suggestions, feel free to reach out via email or GitHub Issues.
-
-📧 Email: **your_email@example.com** *(Add email here)*
+For questions or suggestions, feel free to reach out via GitHub Issues.
 
 📌 GitHub Issues: [Issues](https://github.com/zzunyang/KLQD/issues)
