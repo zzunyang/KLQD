@@ -15,7 +15,7 @@ KLQD and the seven fine-tuned models are released under an **open license**, mak
 ## Dataset & Model Downloads
 
 ### KLQD Dataset
-- [KLQD Dataset (Hugging Face)](#) *(Add link here)*
+- [KLQD Dataset (Hugging Face)](#)[](https://huggingface.co/datasets/zzunyang/KLQD)](https://huggingface.co/datasets/zzunyang/KLQD)
 
 ### KLQD-trained Models
 - [zzunyang/KLQD_llama3.1](https://huggingface.co/zzunyang/KLQD_llama3.1)
